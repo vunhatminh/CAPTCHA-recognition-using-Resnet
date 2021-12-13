@@ -17,3 +17,7 @@ To generate the data, run:
 To train the model, run:
 
 `bash job_train.sh`
+
+Base models: [Pytorch](https://pytorch.org/).
+CAPTCHA generation: [captcha](https://pypi.org/project/captcha/).
+Approach: [Blog](https://medium.com/swlh/solving-captchas-using-resnet-50-without-using-ocr-3bdfbd0004a4) [Code](https://github.com/shishishu/pytorch-captcha-recognition).
